@@ -1,4 +1,4 @@
-# Второй семинар
+# Второй семинар 13
 <!---Used seminar material Hammatshin Almas,--->
 <!---Youtube video Atlassian Creating & merging branches in Git - Git Guides (2020)--->
 
