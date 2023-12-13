@@ -21,6 +21,8 @@ git branch *- аналог git branch --list*
 ## Слияние веток
 * Fast-Forward *-non-conflict merge: Изменение второстепенной ветки, главная без изменений*
 * 'ort' strategy (recursive) *-non-conflict merge: Изменения в разных пространствах главной и побочной веток*
+* Fast-Forward *-non-conflict merge: Изменение второстепенной incoming ветки, главная без изменений*
+* 'ort' strategy (recursive) *-non-conflict merge*
 
 git merge 'branch name' *- not nsessery to commit merge <br>
 не обязательно фиксировать*
@@ -31,4 +33,4 @@ git merge 'branch name' *- not nsessery to commit merge <br>
 ## Удаление ветки
 git branch -d *- не позволит удалить ветку, если в ней есть неслитые изменения* <br>
 git branch -D *- принудительное удаление ветки, даже если есть неслитые изменения* <br>
-git branch -a *- список удаленных веток*
+git branch -a *- список удаленных веток* 13
