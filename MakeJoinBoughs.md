@@ -19,7 +19,7 @@ git commit
 ## To verify that we are where we think we are
 git branch *- аналог git branch --list*
 ## Слияние веток
-* Fast-Forward *-non-conflict merge: Изменение второстепенной ветки, главная без изменений*
+* Fast-Forward *-non-conflict merge: Изменение второстепенной incoming ветки, главная без изменений*
 * 'ort' strategy (recursive) *-non-conflict merge*
 
 git merge 'branch name' *- not nsessery to commit merge <br>
