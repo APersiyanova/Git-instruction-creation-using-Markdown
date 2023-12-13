@@ -20,7 +20,7 @@ git commit
 git branch *- аналог git branch --list*
 ## Слияние веток
 * Fast-Forward *-non-conflict merge: Изменение второстепенной ветки, главная без изменений*
-* 'ort' strategy (recursive) *-non-conflict merge*
+* 'ort' strategy (recursive) *-non-conflict merge: Изменения в разных пространствах главной и побочной веток*
 
 git merge 'branch name' *- not nsessery to commit merge <br>
 не обязательно фиксировать*
