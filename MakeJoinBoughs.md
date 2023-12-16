@@ -8,11 +8,11 @@ git branch *- создавать, просматривать, переимено
 git branch 'branch name' <br>
 git branch -m 'new branch name'
 
-## Выбор
+## Перемещение между ветками
 git checkout -b 'branch name' *- выбрать указатель на commit*
 
-## редактирование /<br> индексация add/ фиксация commit   
-
+## После редактирования файла
+## <br> индексация add/ фиксация commit   
 git add <br>
 git commit
 
