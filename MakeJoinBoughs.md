@@ -1,7 +1,7 @@
 # Второй семинар
 <!---Used seminar material Hammatshin Almas--->
 <!---Used Youtube video Atlassian Creating & merging branches in Git - Git Guides (2020)--->
-![Why not to refresh how images](PythonMyLove.jpg)<br>
+![Git or not git](GitMyLove.png)<br>
 [Pro Git book by Scott Chacon](https://git-scm.com/book/en/v2)
 ## Создание веток /
 git branch *- создавать, просматривать, переименовывать и удалять **ветку** - другой указатель на текущий commit*<br>
