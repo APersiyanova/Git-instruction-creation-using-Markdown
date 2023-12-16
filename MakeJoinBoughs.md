@@ -1,7 +1,7 @@
 # Второй семинар
-<!---Used seminar material Hammatshin Almas,--->
-<!---Youtube video Atlassian Creating & merging branches in Git - Git Guides (2020)--->
-
+<!---Used seminar material Hammatshin Almas--->
+<!---Used Youtube video Atlassian Creating & merging branches in Git - Git Guides (2020)--->
+![Why not to refresh how images](PythonMyLove.jpg)<br>
 [Pro Git book by Scott Chacon](https://git-scm.com/book/en/v2)
 ## Создание веток /
 git branch *- создавать, просматривать, переименовывать и удалять **ветку** - другой указатель на текущий commit*<br>
@@ -29,7 +29,7 @@ git merge 'branch name' *- not nsessery to commit merge <br>
 ## Handle conflicts
 Конфликты при слияниях:
 * 3-Way
-Понапишем всякую фигню, перенесём её в мэйн. Потом удалим эту фигню и перенесем удаление в мэйн.
+
 ## Удаление ветки
 git branch -d *- не позволит удалить ветку, если в ней есть неслитые изменения* <br>
 git branch -D *- принудительное удаление ветки, даже если есть неслитые изменения* <br>
